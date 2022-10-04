@@ -1,7 +1,6 @@
 # QuizHub
 
 - QuizHub is a quick quiz taking and creating application
-- This project reached Top 12 among 3500+ submissions in Tally CodeBrew Hackathon 2022
 
 ![HomeScreen](https://github.com/wraith-0/quizhub/blob/master/screenshots/homescreen.png?raw=true)
 

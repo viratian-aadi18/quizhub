@@ -47,10 +47,3 @@ npm run dev
 | <img width="1604" alt="previousquizzes" src="https://github.com/wraith-0/quizhub/blob/master/screenshots/previousquizzes.png?raw=true">Previous Quizzes |   <img width="1604" alt="question" src="https://github.com/wraith-0/quizhub/blob/master/screenshots/question.png?raw=true"> Add Questions    |
 |               <img width="1604" alt="quiz" src="https://github.com/wraith-0/quizhub/blob/master/screenshots/quiz.png?raw=true"> Give Quiz               |    <img width="1604" alt="startQuiz" src="https://github.com/wraith-0/quizhub/blob/master/screenshots/startQuiz.png?raw=true"> Start Quiz    |
 |     <img width="1604" alt="homescreen" src="https://github.com/wraith-0/quizhub/blob/master/screenshots/waitingscreen.png?raw=true"> Waiting Window     |   <img width="1604" alt="homescreen" src="https://github.com/wraith-0/quizhub/blob/master/screenshots/quizended.png?raw=true"> View Score    |
-
-## Link
-
-[Problem Statement](https://drive.google.com/file/d/17TtpdC4jaAq9D37L3ciU8uo6hTB0C8sq/view?usp=sharing)
-[Backend Code](https://github.com/Abhishekkr3003/QuizHub-Backend)
-[Frontend Live Here](https://quizhub-codebrew.netlify.app/)
-[Backend Live Here](https://quizhub-api.herokuapp.com/)
